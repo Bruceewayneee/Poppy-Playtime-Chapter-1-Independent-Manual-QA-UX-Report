@@ -45,6 +45,4 @@ GitHub:https://github.com/Bruceewayneee
 ## 📈 Portfolio Impact
 
 Previous QA reports have collectively received over **100+ unique clones** and hundreds of views from GitHub users worldwide.  
-This report continues that QA journey, focusing on technically rich indie horror games.
-
 Thank you for reading!
