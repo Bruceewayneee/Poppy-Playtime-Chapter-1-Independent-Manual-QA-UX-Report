@@ -36,8 +36,7 @@ It is not affiliated with, endorsed by, or officially connected to Mob Entertain
 
 ## 📬 Contact
 
-**Süleyman Yılmaz**  
-QA Tester & Analyst  
+**Süleyman Yılmaz**   
 GitHub:https://github.com/Bruceewayneee 
 
 ---
